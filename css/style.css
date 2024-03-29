@@ -984,7 +984,11 @@ section._skills .skill-wrap._wrap02 .img-wrap li img {
   transform: translate(-50%, -50%);
 }
 /* width: 40.80%;height: 59.90%; // width:40.52%;height:59.28%;*/
-
+.mockup._hinalya {
+  background: url(../img/Hindalya.png);
+  background-size: 100%;
+  background-position: 0% 0%;
+}
 .mockup._gsicoop {
   background: url(../img/socialme.png);
   background-size: 100%;
@@ -996,7 +1000,7 @@ section._skills .skill-wrap._wrap02 .img-wrap li img {
   background-position: 0% 0%;
 }
 .mockup._plugin {
-  background: url(../img/movieList.png);
+  background: url(../img/Todo.png);
   background-size: 100%;
   background-position: 0% 0%;
 }
@@ -1011,7 +1015,7 @@ section._skills .skill-wrap._wrap02 .img-wrap li img {
   background-position: 0% 0%;
 }
 .mockup._uhbee {
-  background: url(../img/Resume.png);
+  background: url(../img/Education.png);
   background-size: 100%;
   background-position: 0% 0%;
 }
